@@ -1,1 +1,1 @@
-The following repo covers the Shell with I/O Redirections and filters. Know and understand the commands.
+This Folder is created for 0x02-shell_redirections project 
