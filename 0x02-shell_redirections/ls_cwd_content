@@ -1,0 +1,35 @@
+total 4
+drwxrwxrwx 1 dusabe dusabe 4096 Sep 29 21:21 .
+drwxrwxrwx 1 dusabe dusabe 4096 Sep 10 14:00 ..
+-rwxrwxrwx 1 dusabe dusabe   32 Aug 24 18:32 0-hello_world
+-rwxrwxrwx 1 dusabe dusabe   28 Aug 24 18:32 1-confused_smiley
+-rwxrwxrwx 1 dusabe dusabe   48 Aug 24 18:32 10-no_more_js
+-rwxrwxrwx 1 dusabe dusabe   56 Aug 24 18:32 100-empty_casks
+-rwxrwxrwx 1 dusabe dusabe  103 Aug 24 18:32 101-gifs
+-rwxrwxrwx 1 dusabe dusabe   38 Aug 24 18:32 102-acrostic
+-rwxrwxrwx 1 dusabe dusabe  115 Aug 24 18:32 103-the_biggest_fan
+-rwxrwxrwx 1 dusabe dusabe   50 Aug 24 18:32 11-directories
+-rwxrwxrwx 1 dusabe dusabe   32 Aug 24 18:32 12-newest_files
+-rwxrwxrwx 1 dusabe dusabe   27 Aug 24 18:32 13-unique
+-rwxrwxrwx 1 dusabe dusabe   39 Aug 24 18:32 14-findthatword
+-rwxrwxrwx 1 dusabe dusabe   41 Aug 24 18:32 15-countthatword
+-rwxrwxrwx 1 dusabe dusabe   44 Aug 24 18:32 16-whatsnext
+-rwxrwxrwx 1 dusabe dusabe   41 Aug 24 18:32 17-hidethisword
+-rwxrwxrwx 1 dusabe dusabe   50 Aug 24 18:32 18-letteronly
+-rwxrwxrwx 1 dusabe dusabe   53 Aug 27 19:57 18-lettersonly
+-rwxrwxrwx 1 dusabe dusabe   36 Aug 24 18:32 19-AZ
+-rwxrwxrwx 1 dusabe dusabe   28 Aug 24 18:32 2-hellofile
+-rwxrwxrwx 1 dusabe dusabe   23 Aug 24 18:32 20-hiago
+-rwxrwxrwx 1 dusabe dusabe   16 Aug 24 18:32 21-reverse
+-rwxrwxrwx 1 dusabe dusabe   49 Aug 24 18:32 22-users_and_homes
+-rwxrwxrwx 1 dusabe dusabe   39 Aug 24 18:32 3-twofiles
+-rwxrwxrwx 1 dusabe dusabe   35 Aug 24 18:32 4-lastlines
+-rwxrwxrwx 1 dusabe dusabe   35 Aug 24 18:32 5-firstlines
+-rwxrwxrwx 1 dusabe dusabe   40 Aug 24 18:32 6-third_line
+-rwxrwxrwx 1 dusabe dusabe   78 Aug 24 18:32 7-file
+-rwxrwxrwx 1 dusabe dusabe   36 Aug 24 18:32 8-cwd_state
+-rwxrwxrwx 1 dusabe dusabe   37 Aug 24 18:32 9-duplicate_last_line
+-rwxrwxrwx 1 dusabe dusabe   64 Sep 29 21:13 README.md
+-rwxrwxrwx 1 dusabe dusabe   12 Sep 29 21:18 \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+-rwxrwxrwx 1 dusabe dusabe  800 Aug 24 18:32 iacta
+-rwxrwxrwx 1 dusabe dusabe    0 Sep 29 21:21 ls_cwd_content
